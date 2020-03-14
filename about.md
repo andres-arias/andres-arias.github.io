@@ -23,6 +23,6 @@ Also, I'm part of a hackerspace in San José, Costa Rica. They are pretty cool,
 
 ### Contact me
 
-My personal email is andres.arias12@gmail.com
+My personal email is [andres.arias12@gmail.com](mailto:andres.arias12@gmail.com)
 
 Alternatively, you can find me on [LinkedIn](https://www.linkedin.com/in/andresarias95/).
