@@ -79,22 +79,24 @@ I got this working following [Purpzie's](https://github.com/Purpzie)
 
 Just replace `{{ post.content }}` on your `index.html` with the following:
 ```html
+{% raw %}
 {{ post.excerpt }}
 {% capture content_words %}{{ post.content | number_of_words }}{% endcapture %} 
 {% capture excerpt_words %}{{ post.excerpt | number_of_words }}{% endcapture %} 
 {% if excerpt_words != content_words %}
 <a href="{{ post.url }}#read-more" class="btn btn-info">Read More</a>
 {% endif %}
+{% endraw %}
 ```
 
 Then I just added a more explicit excerpt separator to indicate
 where I want to end the excerpt. Just add the following to your
 `_config.yml`:
 ```yaml
-excerpt_separator: "<!--break-->"
+excerpt_separator: "<!--more-->"
 ```
 
-Then I just add a line on my post with `<!--break-->` where I want the excerpt to end.
+Then I just add a line on my post with `<!--more-->` where I want the excerpt to end.
 
 Finally, I want a search function, which I have yet to implement
 because I haven't found a solution simple enough for this lazy
