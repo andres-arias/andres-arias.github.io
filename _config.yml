@@ -5,10 +5,10 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            Andrés World
-tagline:          "Andrés Arias' random computer writing"
+title:            Andrés Arias
+tagline:          "Andrés' random computer writing"
 description:      'A site about my adventures on DevOps and hacking'
-url:              https://andres-arias.github.io/
+url:              https://andres.world/
 baseurl:          /
 
 author:
