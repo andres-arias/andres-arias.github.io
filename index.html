@@ -14,7 +14,12 @@ title: Home
 
     <span class="post-date">{{ post.date | date_to_string }}</span>
 
-    {{ post.content }}
+    {{ post.excerpt }}
+    {% capture content_words %}{{ post.content | number_of_words }}{% endcapture %} 
+    {% capture excerpt_words %}{{ post.excerpt | number_of_words }}{% endcapture %} 
+    {% if excerpt_words != content_words %}
+    <a href="{{ post.url }}#read-more" class="btn btn-info">Read More</a>
+    {% endif %}
   </div>
   {% endfor %}
 </div>
