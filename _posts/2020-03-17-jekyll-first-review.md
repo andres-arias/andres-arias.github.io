@@ -57,11 +57,13 @@ What you have to do is add the following snippet to `_layouts/post.html` where y
 you comment box to be:
 
 ```html
+{% raw %}
 {% if page.comments %}
 
 <h2>Comments</h2>
 <!-- YOUR DISQUS UNIVERSAL EMBED CODE HERE -->
 {% endif %}
+{% endraw %}
 ```
 
 You can customize the block as much as you like, of course. After that,
