@@ -79,7 +79,7 @@ keep reading, just press the "Read more" link.
 I got this working following [Purpzie's](https://github.com/Purpzie)
 [super helpful answer](https://github.com/mmistakes/jekyll-theme-hpstr/issues/194#issuecomment-388390761).
 
-Just replace `{{ post.content }}` on your `index.html` with the following:
+Just replace `{% raw %}{{ post.content }} {% endraw %}` on your `index.html` with the following:
 ```html
 {% raw %}
 {{ post.excerpt }}
