@@ -3,6 +3,10 @@ layout: page
 title: About Andrés
 ---
 
+<h1>
+<img class="avatar" src="/assets/img/me.jpg" alt="Andrés">
+</h1>
+
 Hello! I'm Andrés Arias, and I'm a Computer Engineer from Costa Rica.
 
 I work at [Neustar](https://www.home.neustar/) as a Software Engineer,
