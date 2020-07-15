@@ -18,7 +18,7 @@ First, I created the simple search box you can find on the [Search](http://andre
 
 ## Install Lunr.js
 
-Create a `js` directory on your Jekyll project (if you don't already have one) and create a new file named `lunr.js`. Paste the contents of [this snippet](https://raw.githubusercontent.com/jhvanderschee/jekyllcodex/gh-pages/js/lunr.js).
+Create a `js` directory on your Jekyll project (if you don't already have one) and create a new file named `lunr.js` inside it. Paste the contents of [this snippet](https://raw.githubusercontent.com/jhvanderschee/jekyllcodex/gh-pages/js/lunr.js).
 
 ## Create the search page
 
