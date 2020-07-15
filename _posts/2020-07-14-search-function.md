@@ -49,6 +49,6 @@ Second, and the most important one, it adds a lot of trackers to my website that
 
 So after much consideration, I decided to completely remove the comment section on my blog, however that does not mean I'm not open to discussion, so if you want to comment a post with me, feel free to [reach me](http://andres.world/about/).
 
-Maybe one day I'll find a solution for the comment section without all those pesky trackers, but as of today, I have no comment section, but also, as displayed by the awsome [Privacy Badger extension](https://privacybadger.org/) developed by our good friends, the [Electronic Frontier Foundation](https://www.eff.org/), my website is now **100% tracker-free** :)
+Maybe one day I'll find a solution for the comment section without all those pesky trackers, but as of today, I have no comment section, but also, as displayed by the awesome [Privacy Badger extension](https://privacybadger.org/) developed by our good friends, the [Electronic Frontier Foundation](https://www.eff.org/), my website is now **100% tracker-free** :)
 
 Until next time!
