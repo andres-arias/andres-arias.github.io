@@ -10,6 +10,8 @@ I was not until this morning that I ran into a [simple script](https://jekyllcod
 
 Here's a write-up on how I installed it, but what I did it's no different to what's described on JekyllCodex.
 
+<!--more-->
+
 ## Create the search box
 
 First, I created the simple search box you can find on the [Search](http://andres.world/Search/) section on my site. I just created a new file named `search-box.html` under the `_includes` directory of my Jekyll project. [Here's the snippet](https://raw.githubusercontent.com/jhvanderschee/jekyllcodex/gh-pages/_includes/search-lunr.html).
