@@ -4,7 +4,7 @@ title: Development Setup on Windows 10
 date: 2020-07-31 19:20 -0600
 ---
 
-![Screenshot of how my Windows 10 setup looks like](https://raw.githubusercontent.com/andres-arias/andres-arias.github.io/master/assets/img/windows.PNG)
+![Screenshot of how my Windows 10 setup looks like](./assets/img/windows.png)
 *Screenshot of how my Windows 10 setup looks like*
 
 Before I start, let me get something straight: No, I haven't lost my mind.
