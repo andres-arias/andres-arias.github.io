@@ -2,8 +2,8 @@
 layout: post
 title: Simple Jekyll Search Page
 date: 2020-07-14 20:16 -0600
-category: web
-tags: ruby jekyll
+category: Web
+tags: [ruby, jekyll]
 ---
 
 The last time I wrote on this blog (and it was a long time ago, shame on me), I discussed the different functionalities I wanted to have on my blog, one of them being [a search function easy enough to install](https://andres.world/2020/03/18/jekyll-first-review/), and until today, I haven't found a suitable solution.
