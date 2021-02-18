@@ -2,6 +2,8 @@
 layout: post
 title: How I got Jekyll to work the way I want
 date: 2020-03-17 19:48 -0600
+category: web
+tags: ruby jekyll
 ---
 
 Okay, I've been *(seriously this time)* playing around with Jekyll and
