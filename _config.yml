@@ -7,7 +7,7 @@ permalink:        pretty
 # Setup
 title:            Andrés Arias
 tagline:          "Andrés' random computer writing"
-description:      'A site about my adventures on DevOps and hacking'
+description:      'A site about hacking embedded systems (and other stuff)'
 url:              https://andres.world/
 baseurl:          /
 
