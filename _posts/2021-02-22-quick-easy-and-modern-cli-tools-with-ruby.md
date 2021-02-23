@@ -10,7 +10,7 @@ tags: [ruby]
 
 So what's the reason for the change? It's simple: You can make really cool and modern CLI applications with Ruby really easy, and even better, without needing additional libraries.
 
-Here's a quick tutorial on how to quickly create CLI tools and scripts using only Ruby.
+Here's a quick tutorial on how to easily create CLI tools and scripts using only Ruby.
 
 <!--more-->
 
@@ -74,7 +74,7 @@ OptionParser.new do |opts|
 end.parse!
 ```
 
-And the you'll have a handy `@options` hash that will hold the parameters provided by the user, that you can use later for your script's logic:
+And then you'll have a handy `@options` hash that will hold the parameters provided by the user, that you can use later for your script's logic:
 ```ruby
 require 'optparse'
 
