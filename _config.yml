@@ -6,14 +6,14 @@ permalink:        pretty
 
 # Setup
 title:            Andrés Arias
-tagline:          "Andrés' random computer writing"
+tagline:          "Random computer writing"
 description:      'A site about hacking embedded systems (and other stuff)'
 url:              https://andres.world/
 baseurl:          /
 
 author:
   name:           'Andrés Arias'
-  url:            https://andres-arias.github.io/
+  url:            https://andres.world/
 
 paginate:         5
 excerpt_separator: <!--more-->
