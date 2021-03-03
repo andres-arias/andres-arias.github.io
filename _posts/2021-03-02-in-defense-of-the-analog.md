@@ -28,7 +28,7 @@ Look, this is all my personal opinion, I'm not trying to write a scientific pape
 
 A notebook is just that: a notebook. A bunch of paper where you write things down. A notebook won't fight for your attention, it won't show useless stuff to keep you looking at it, it won't bother you with notifications trying to pull you right back to it. It's the most effective tool: It's boring, uninteresting, and you can write your ideas down and organize your day without the risk of spending hours on another YouTube hole or mindlessly scrolling through your Instagram feed.
 
-With you phone, you can pull it out of your pocker to look at your tasks for today and next thing you know, you're on the Wikipedia reading about the Australian saltwater crocodile.
+With you phone, you can pull it out of your pocket to look at your tasks for today and next thing you know, you're on the Wikipedia reading about the Australian saltwater crocodile.
 
 ### 2. It's possible to organize yourself in the way that works best for you
 
