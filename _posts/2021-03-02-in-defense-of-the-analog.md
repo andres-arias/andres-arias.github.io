@@ -6,7 +6,7 @@ category: Tools
 tags: [productivity, personal]
 ---
 
-![A paper planner and a brass pen](https://raw.githubusercontent.com/andres-arias/andres-arias.github.io/master/assets/img/windows.PNG)
+![A paper planner and a brass pen](https://raw.githubusercontent.com/andres-arias/andres-arias.github.io/master/assets/img/planner.jpg)
 
 *Photo by <a href="https://unsplash.com/@northfolk?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">NORTHFOLK</a> on <a href="https://unsplash.com/s/photos/planner?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a>.*
 
