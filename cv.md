@@ -9,12 +9,19 @@ Here you will find my Résumé. Please note that I'm currently
 
 ## Experience
 
+### [Boston Scientific](https://www.bostonscientific.com/)
+**Embedded Software Engineer II**
+
+Heredia, Costa Rica
+
+*Mar 2021 - Present*
+
 ### [Neustar](https://home.neustar)
 **Software Engineer**
 
 Heredia, Costa Rica
 
-*Dec 2019 - Present*
+*Dec 2019 - Feb 2021*
 
 ### [Lantern Technologies](https://lantern.tech)
 **Integration Engineer**

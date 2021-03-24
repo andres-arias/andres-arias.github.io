@@ -7,12 +7,14 @@ title: About Andrés
 <img class="avatar" src="/assets/img/me.jpg" alt="Andrés">
 </h1>
 
-Hello! I'm Andrés Arias, and I'm a Computer Engineer from Costa Rica.
+Hello! I'm Andrés Arias, I'm a Computer Engineer from Costa Rica working
+as an Embedded Software Engineer for R&D at
+[Boston Scientific](https://www.bostonscientific.com/)
 
-I work at [Neustar](https://www.home.neustar/) as a Software Engineer,
-mainly working with DevOps technologies. On the past, I worked on Embedded
-Systems, mainly software targeted to microcontrollers for industrial and
-commercial applications.
+I used to work at [Neustar](https://www.home.neustar/) as a Software Engineer,
+mainly working with DevOps technologies. Also, on the past, I worked at
+[Lantern Technologies](https://lantern.tech), a Costa Rican startup, writing
+firmware for IoT devices mainly targeted at industrial and commercial applications.
 
 Computing has always been my passion, so I started this website *(after
 several tries)* to write about the experiments I work on and the things I'm
