@@ -12,7 +12,7 @@ as an Embedded Software Engineer for R&D at
 [Boston Scientific](https://www.bostonscientific.com/)
 
 I used to work at [Neustar](https://www.home.neustar/) as a Software Engineer,
-mainly working with DevOps technologies. Also, on the past, I worked at
+mainly working with DevOps technologies. Also, in the past, I worked at
 [Lantern Technologies](https://lantern.tech), a Costa Rican startup, writing
 firmware for IoT devices mainly targeted at industrial and commercial applications.
 
