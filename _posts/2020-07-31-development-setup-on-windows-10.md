@@ -3,7 +3,7 @@ layout: post
 title: Development Setup on Windows 10
 date: 2020-07-31 19:20 -0600
 category: Tools
-tags: [ruby, jekyll]
+tags: [windows, unix, linux]
 ---
 
 ![Screenshot of how my Windows 10 setup looks like](https://raw.githubusercontent.com/andres-arias/andres-arias.github.io/master/assets/img/windows.PNG)
