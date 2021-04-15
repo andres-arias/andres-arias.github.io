@@ -6,11 +6,16 @@ category: Tools
 tags: [windows, powershell, unix]
 ---
 
+![Screenshot of how my PowerShell setup looks like](https://raw.githubusercontent.com/andres-arias/andres-arias.github.io/master/assets/img/powershell.png)
+*Screenshot of how my PowerShell setup looks like*
+
 Last time [I wrote about my development setup on Windows 10](https://andres.world/tools/2020/08/01/development-setup-on-windows-10/), I suggested using the Windows Subsystem for Linux (WSL), and I still think this is the best (or most confortable) approach for most Unix people. However, you might find yourself in a situation where you can't really use WSL, such as needing to compile Windows native binaries or your company-issued laptop just won't allow it. 
 
 I actually am in one of those situations, so at first I tried a [Cygwin](https://www.cygwin.com/) setup, and it did work, but not painlessly (it took me some work to get to a place where I was confortable) and it was slow and buggy at times.
 
 After much pain and unwillingness to dedicate more time to Cygwin, I said "screw it" and went the Windows-way (not without some initial resistance of course) and found out that you can get a pretty "Riced Unix" feel with PowerShell easily, and that PowerShell is actually good. So here's a writeup on how I got it working the way I like.
+
+<!--more-->
 
 ## 1. Install Git
 
